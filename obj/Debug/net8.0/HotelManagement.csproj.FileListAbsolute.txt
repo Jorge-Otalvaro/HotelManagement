@@ -135,3 +135,4 @@ C:\laragon\www\HotelManagement\obj\Debug\net8.0\refint\HotelManagement.dll
 C:\laragon\www\HotelManagement\obj\Debug\net8.0\HotelManagement.pdb
 C:\laragon\www\HotelManagement\obj\Debug\net8.0\HotelManagement.genruntimeconfig.cache
 C:\laragon\www\HotelManagement\obj\Debug\net8.0\ref\HotelManagement.dll
+C:\laragon\www\HotelManagement\obj\Debug\net8.0\HotelManagement.sourcelink.json

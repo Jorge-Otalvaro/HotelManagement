@@ -8,5 +8,7 @@ namespace HotelManagement.Data
         public DbSet<Hotel> Hoteles { get; set; }
         public DbSet<Habitacion> Habitaciones { get; set; }
         public DbSet<Reserva> Reservas { get; set; }
+        public DbSet<Pasajero> Pasajeros { get; set; }
+        public DbSet<ContactoEmergencia> ContactosEmergencia { get; set; }
     }
 }
