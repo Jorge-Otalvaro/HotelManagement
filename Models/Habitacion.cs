@@ -4,12 +4,13 @@ namespace HotelManagement.Models
     {
         public int Id { get; set; }
         public int HotelId { get; set; }
-        public Hotel Hotel { get; set; }
-        public string Numero { get; set; }
-        public string Tipo { get; set; }
+        public required Hotel Hotel { get; set; }
+        public required string NumeroHabitacion { get; set; }
+        public required string TipoHabitacion { get; set; }
+        public int Capacidad { get; set; }
         public decimal CostoBase { get; set; }
         public decimal Impuestos { get; set; }
-        public string Ubicacion { get; set; }
+        public required string Ubicacion { get; set; }
         public bool Habilitado { get; set; }
     }
 }
